@@ -1,4 +1,4 @@
-# 🔐 PeaZipX — The Modern File Archiver (PWA + Desktop + Voice Assistant)
+# 🔐 CornZip — The Modern File Archiver (PWA + Desktop + Voice Assistant)
 
 > A high-speed, visually stunning PeaZip-inspired archiver with real-time compression, conversion, voice control, and immersive UI/UX for desktop and web.
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-**PeaZipX** is a cross-platform, performance-optimized file compression and extraction tool built with a modern, minimalist interface and motion-driven user experience. Inspired by PeaZip but redesigned for today's web and desktop users, it features voice/chat-based control, smooth drag-and-drop file management, and advanced compression formats.
+**CornZIp** is a cross-platform, performance-optimized file compression and extraction tool built with a modern, minimalist interface and motion-driven user experience. Inspired by PeaZip but redesigned for today's web and desktop users, it features voice/chat-based control, smooth drag-and-drop file management, and advanced compression formats.
 
 This app supports:
 - ✅ Web (PWA)
@@ -59,8 +59,8 @@ This app supports:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/PeaZipX.git
-cd PeaZipX
+git clone https://github.com/rotric04/CornZip.git
+cd CornZip
 ````
 
 ### 2. Install dependencies
